@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bhargavin0904
-- 👀 I’m interested in frontend development
-- 🌱 I’m currently learning frontend languages with 
+- 👀 I’m currently working as a Sofware Associate
+- 🌱 I’m currently learning frontend languages  
 - 💞️ I’m looking to collaborate with team projects
 - 📫 Email: bgavi04@gmail.com            
                     
